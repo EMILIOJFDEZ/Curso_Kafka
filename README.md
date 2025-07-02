@@ -8,7 +8,7 @@ IntelliJ IDEA Community:
 
 https://www.jetbrains.com/es-es/idea/download/?section=windows
 
-## Crear un proyecto con Spring Boot Initializr
+## Crear un proyecto con Spring Boot Initializer
 
 Descargar y descomprimir este proyecto:
 
